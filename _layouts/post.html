@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+
+<nav id="back">
+  <a href="{{ site.baseurl }}/index.html">Home</a> &#62;
+  <span>{{ page.category | capitalize }}</span>
+</nav>
+
 <h1>{{ page.title }}</h1>
 
 {{ content }}

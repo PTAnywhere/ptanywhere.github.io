@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding Github projects"
 date:   2016-07-25 15:42:00
-categories: main
+category: general
 ---
 
 This article describes the projects under the
