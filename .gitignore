@@ -1,0 +1,5 @@
+# Site build by Jekyll
+_site/
+
+# Mac OSX
+.DS_Store

@@ -1,0 +1,17 @@
+# Setup
+title:        PT Anywhere for techies
+tagline:      Documentation for PT Anywhere developers and administrators
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Aitor Gomez Goiri
+  url:        http://gomezgoiri.net
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
