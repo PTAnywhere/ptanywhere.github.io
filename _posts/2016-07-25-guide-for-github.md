@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Understanding Github projects"
-date:   2016-07-25 15:42:00
 category: general
 ---
 
